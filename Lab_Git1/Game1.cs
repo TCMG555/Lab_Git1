@@ -8,7 +8,7 @@ namespace Lab_Git1
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-
+        bool downed;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
