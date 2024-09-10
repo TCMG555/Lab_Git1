@@ -23,6 +23,11 @@ namespace Lab_Git1
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
+
+
+
+
+            int Sui;
         }
 
         protected override void Initialize()
