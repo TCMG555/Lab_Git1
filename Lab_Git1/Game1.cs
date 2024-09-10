@@ -8,6 +8,7 @@ namespace Lab_Git1
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        int _x = 0;
 
         public Game1()
         {
