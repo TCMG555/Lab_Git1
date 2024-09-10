@@ -10,6 +10,7 @@ namespace Lab_Git1
         private SpriteBatch _spriteBatch;
 
 
+
         int _x = 0;
 
         int tong;
@@ -17,6 +18,9 @@ namespace Lab_Git1
 
 
         bool downed;
+
+
+        int speedUpdown;
 
         public Game1()
         {
