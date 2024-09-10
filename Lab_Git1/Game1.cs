@@ -66,5 +66,7 @@ namespace Lab_Git1
 
             base.Draw(gameTime);
         }
+        int a;
     }
+    
 }
